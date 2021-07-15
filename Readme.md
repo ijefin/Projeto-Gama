@@ -66,7 +66,7 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 
 
-#Agradecimentos
+# Agradecimentos
 
 Este é um trabalho que não visa fins lucrativos, foi feito apenas  para fins didáticos. Trata-se de um projeto proposto pelo Bootcamp da GamaAcademy, XP edição 38. Sinta-se avontade para utiliza-lo em seu aprendizado
 
