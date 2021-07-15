@@ -10,12 +10,15 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 # 1º - Estruturação
 
-| Task                                     | Data Estimada |   Status    |
-| :--------------------------------------- | :-----------: | :---------: |
-| - Definição do produto para o catálogo   |     15/05     | *Concluído* |
-| - Seleção de imagens do produto          |     15/05     | *Concluído* |
-| - Criação do esqueleto das páginas       |     15/05     | *Concluído* |
-| - Criação de pastas para organização do projeto |     15/05     | *Concluído* |
+| Task                                     | Data Estimada |     Status     |
+| :--------------------------------------- | :-----------: | :------------: |
+| - Definição do produto para o catálogo   |     15/05     |  *Concluído*   |
+| - Seleção de imagens do produto          |     15/05     |  *Concluído*   |
+| - Criação do esqueleto das páginas       |     15/05     |  *Concluído*   |
+| - Criação de pastas para organização do projeto |     15/05     |  *Concluído*   |
+| - Estilizar Logo marca                   |     18/05     | *Em Progresso* |
+| - Criar design para a index              |     18/05     | *Em Progresso* |
+| - Criar design para paginas do produto   |     18/05     | *Em Progresso* |
 
 # 2º - Criação das páginas
 
@@ -69,4 +72,4 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 Este é um trabalho que não visa fins lucrativos, foi feito apenas  para fins didáticos. Trata-se de um projeto proposto pelo Bootcamp da GamaAcademy, XP edição 38. Sinta-se avontade para utiliza-lo em seu aprendizado
 
-Author: Jefferson Lucas Gomes
+Author: Jefferson Lucas Gomes.
