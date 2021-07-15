@@ -2,7 +2,7 @@
 
 # Sobre
 
-A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da catogoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
+A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da categoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
 
 ------
 
@@ -48,10 +48,10 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 | Task                                     | Data estimada | Status         |
 | ---------------------------------------- | :-----------: | -------------- |
-| Criar opção filtro                       |     21/07     | *Em Progresso* |
-| Filtrar por Marca/Preço                  |     21/07     | *Em Progresso* |
-| Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
-| Página de compra do produto (botões apenas visuais, sem função) |     21/07     | *Em Progresso* |
+| - Criar opção filtro                       |     21/07     | *Em Progresso* |
+| - Filtrar por Marca/Preço                  |     21/07     | *Em Progresso* |
+| - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
+| - Página de compra do produto (botões apenas visuais, sem função) |     21/07     | *Em Progresso* |
 
 
 
@@ -59,10 +59,10 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 | Task                                     | Data estimada | Status         |
 | ---------------------------------------- | ------------- | -------------- |
-| Aplicar CSS3 + Bootstrap                 | 23/07         | *Em Progresso* |
-| Integrar Responsividade                  | 23/07         | *Em Progresso* |
-| Estilizar páginas conforme Layout esboçado | 23/07         | *Em Progresso* |
-| Realizar ultima entrega funcional.       | 23/07         | *Em Progresso* |
+| - Aplicar CSS3 + Bootstrap                 | 23/07         | *Em Progresso* |
+| - Integrar Responsividade                  | 23/07         | *Em Progresso* |
+| - Estilizar páginas conforme Layout esboçado | 23/07         | *Em Progresso* |
+| - Realizar ultima entrega funcional.       | 23/07         | *Em Progresso* |
 
 ------
 
