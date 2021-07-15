@@ -67,3 +67,15 @@
 
 }
 
+.bg404 {
+
+    background-image: url(../_images/404_backgroud/grande.png);
+    
+}
+
+.bg404 img {
+    
+    margin-top: 30.5%;
+    margin-left: 46%;
+    
+}
