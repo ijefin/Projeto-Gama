@@ -47,8 +47,7 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 | ---------------------------------------- | :-----------: | -------------- |
 | Criar opção filtro                       |     21/07     | *Em Progresso* |
 | Filtrar por Marca/Preço                  |     21/07     | *Em Progresso* |
-| Implementar elemento de navegação em todas 
-as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
+| Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
 | Página de compra do produto (botões apenas visuais, sem função) |     21/07     | *Em Progresso* |
 
 
