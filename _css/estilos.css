@@ -1,0 +1,69 @@
+.logo img {
+
+    width: 80px;
+    margin-left: 5%; 
+
+}
+
+.logo {
+    width: 100%;
+    border: 1px solid rgb(0,0,0);   
+      
+}
+
+.foto {
+    display: inline-block;
+    width: 280;
+    margin: 80px;
+}
+
+.hxcs {
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.descric {
+
+    margin-left: 1000px;
+    border: 2px solid rgb(0,0,0);
+    width: 20%;
+    padding-bottom: -5%;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(231, 102, 16);
+}
+.parag {
+    
+    background-color: rgb(255, 255, 255); 
+    border:1px solid rgb(112, 110, 110); 
+    width: 60%;
+    padding-bottom: 10%;
+    text-align: left;
+        
+}
+.descrig
+{
+    background-color: rgb(255, 255, 255); 
+    border: 2px solid rgb(112, 110, 110); 
+    width: 60%;
+    padding-bottom: 10%;
+    text-align: left;
+}
+
+.alin {
+
+    
+    display: inline-block;
+    margin: 30px;
+    
+}
+.rodapé {
+
+    font-size: small;
+    padding-right:  2%;
+    display: inline-block;
+
+}
+
