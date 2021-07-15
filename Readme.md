@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-[TOC]
-
 # Sobre
 
 A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da catogoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
