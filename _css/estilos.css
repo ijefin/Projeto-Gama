@@ -81,6 +81,7 @@
 
 }
 
+<<<<<<< HEAD
 
 .bg404 {
 
@@ -92,10 +93,19 @@
 }
 
 
+=======
+.bg404 {
+
+    background-image: url(../_images/404_backgroud/grande.png);
+    
+}
+
+>>>>>>> f2c2cf3e0f96d78bc1981efac46b9006257815d6
 .bg404 img {
     
     margin-top: 30.5%;
     margin-left: 46%;
+<<<<<<< HEAD
     align-items: auto;
     
     
@@ -107,5 +117,7 @@
     margin-right: 10%;
     margin-left: 10%;
     border: 2px groove;
+=======
+>>>>>>> f2c2cf3e0f96d78bc1981efac46b9006257815d6
     
 }
