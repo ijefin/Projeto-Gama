@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-[TOC]
-
-# Sobre
-
-A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da categoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
-=======
-# Sobre
-
-A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da catogoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
->>>>>>> d873441e9172b3fcc70ae91ff7210c4314748a28
-=======
-
->>>>>>> f2c2cf3e0f96d78bc1981efac46b9006257815d6
-
-
-
-
-
 # Sobre
 
 #### A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com o intuito de integrar as mais diversas opções de dispositivos de audio do mercado, e também com os melhores preços da catogoria. Projeto organizado exclusivamente pela [GamaAcademy](https://www.gama.academy/).
@@ -65,49 +45,6 @@ A HeadTech Store é uma loja fictícia de produtos do segmento gamer. Feita com 
 
 | Task                                     | Data estimada | Status         |
 | ---------------------------------------- | :-----------: | -------------- |
-| - Criar opção filtro                       |     21/07     | *Em Progresso* |
-| - Filtrar por Marca/Preço                  |     21/07     | *Em Progresso* |
-| - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
-| - Página de compra do produto (botões apenas visuais, sem função) |     21/07     | *Em Progresso* |
-
-
-
-# 5º - Estilização
-
-| Task                                     | Data estimada | Status         |
-| ---------------------------------------- | ------------- | -------------- |
-| - Aplicar CSS3 + Bootstrap                 | 23/07         | *Em Progresso* |
-| - Integrar Responsividade                  | 23/07         | *Em Progresso* |
-| - Estilizar páginas conforme Layout esboçado | 23/07         | *Em Progresso* |
-| - Realizar ultima entrega funcional.       | 23/07         | *Em Progresso* |
-
-------
-
-
-
-#Agradecimentos
-
-Este é um trabalho que não visa fins lucrativos, foi feito apenas  para fins didáticos. Trata-se de um projeto proposto pelo Bootcamp da GamaAcademy, XP edição 38. Sinta-se avontade para utiliza-lo em seu aprendizado
-
-Author: Jefferson Lucas Gomes.
-=======
-
-
-# 3º - Descritivo + Design Jobs
-
-| Task                                     | Data estimada |     Status     |
-| ---------------------------------------- | :-----------: | :------------: |
-| - Busca das imagens da página descritiva |     20/05     |  *Concluído*   |
-| - Edição das imagens                     |     20/05     |  *Concluído*   |
-| - Organização nos diretórios             |     20/05     |  *Concluído*   |
-| - Inserção das imagens em cada página descritiva |     20/05     | *Em Progresso* |
-
-
-
-# 4º - Categorização
-
-| Task                                     | Data estimada | Status         |
-| ---------------------------------------- | :-----------: | -------------- |
 | - Criar opção filtro                     |     21/07     | *Em Progresso* |
 | - Filtrar por Marca/Preço                |     21/07     | *Em Progresso* |
 | - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |     21/07     | *Em Progresso* |
@@ -127,15 +64,3 @@ Author: Jefferson Lucas Gomes.
 ------
 
 
-
-#Agradecimentos
-
-Este é um trabalho que não visa fins lucrativos, foi feito apenas  para fins didáticos. Trata-se de um projeto proposto pelo Bootcamp da GamaAcademy, XP edição 38. Sinta-se avontade para utiliza-lo em seu aprendizado
-
-<<<<<<< HEAD
-Author: Jefferson Lucas Gomes.
-
->>>>>>> d873441e9172b3fcc70ae91ff7210c4314748a28
-=======
-#### Author: Jefferson Lucas Gomes.
->>>>>>> f2c2cf3e0f96d78bc1981efac46b9006257815d6
