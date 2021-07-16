@@ -31,6 +31,8 @@
 
 
 
+# 3 º Sprint
+
 |                   Task                   | Solicitado Para | Entregue em | Prioridade | Status          |
 | :--------------------------------------: | :-------------: | :---------: | ---------- | --------------- |
 | - Busca das imagens da página descritiva |      20/07      |    14/07    | 8/10       | ***Concluído*** |
