@@ -1,20 +1,31 @@
-.logo img {
 
-    width: 80px;
-    margin-left: 5%; 
+.logo1 h1  {
 
+    
+    border-radius: 20px;
+    padding-left: 0.3%;
+    margin-right: 90.8%;
+    color: rgb(227,0,80);
+    border: 3px groove rgb(227, 0, 80)
+    
+    
 }
 
-.logo {
-    width: 100%;
-    border: 1px solid rgb(0,0,0);   
+.logo1 {
+    
+    
+    font-family: 'Poppins', sans-serif;
+    
       
 }
 
 .foto {
+
+
     display: inline-block;
     width: 280;
-    margin: 80px;
+    margin-left: 10%;
+    margin-top: 7%;
 }
 
 .hxcs {
@@ -78,4 +89,12 @@
     margin-top: 30.5%;
     margin-left: 46%;
     
+}
+
+.geral {
+
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 2px groove;
+    background-color: rgb(221, 221, 221 );
 }
