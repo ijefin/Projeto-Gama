@@ -68,10 +68,10 @@
 
 
 
-#*Onde há iniciativa, existe um grande progresso.*
+# *Onde há iniciativa, existe um grande progresso.*
 
 
 
 
-####Author:
-####Jefferson Lucas Gomes.
+#### Author:
+#### Jefferson Lucas Gomes.
