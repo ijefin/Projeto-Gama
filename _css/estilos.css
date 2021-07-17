@@ -1,30 +1,54 @@
-
-.logo1 h1  {  
+.logo1  h1 {  
   
-    padding-left: 0.3%;
-    margin-right: 87.8%;
+    font-size: 50px;
+    margin-left: 10%;
     color: rgb(227,0,80);
-    border: 3px groove rgb(227, 0, 80)   
-    
-}
-
-.logo1 {
-    
-
-    background-color: rgb(255, 255, 255);
-    border: 2px hidden;
     font-family: 'Poppins', sans-serif;
-    
       
 }
+
+  
+.logo1 a {
+
+    align-items: auto;
+    background-color: rgb(227,0,80);
+    border-left-color:rgb(92, 5, 36);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-bottom: hidden;
+    border-top: hidden;
+    border-right: hidden;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 50%;
+    margin-left: 50%;
+    margin-right: -50%;
+    text-align: center;     
+}
+
 
 .foto {
 
     display: inline-block;
     width: 280;
-    margin-left: 10%;
-    margin-top: 7%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    
 }
+
+ .foto h2 {
+
+    font-family: 'Poppins', sans-serif;
+    color:rgb(92, 5, 36);
+ }
+
+.foto p {
+
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .hxcs {
 
