@@ -1,13 +1,10 @@
 
-.logo1 h1  {
-
-    
+.logo1 h1  {  
   
     padding-left: 0.3%;
     margin-right: 87.8%;
     color: rgb(227,0,80);
-    border: 3px groove rgb(227, 0, 80)
-    
+    border: 3px groove rgb(227, 0, 80)   
     
 }
 
@@ -23,7 +20,6 @@
 
 .foto {
 
-
     display: inline-block;
     width: 280;
     margin-left: 10%;
@@ -37,16 +33,6 @@
 }
 
 
-.descric {
-
-    margin-left: 1000px;
-    border: 2px solid rgb(0,0,0);
-    width: 20%;
-    padding-bottom: -5%;
-    text-align: center;
-    border-radius: 50px;
-    color: rgb(231, 102, 16);
-}
 .parag {
     
     background-color: rgb(255, 255, 255); 
@@ -56,14 +42,7 @@
     text-align: left;
         
 }
-.descrig
-{
-    background-color: rgb(255, 255, 255); 
-    border: 2px solid rgb(112, 110, 110); 
-    width: 60%;
-    padding-bottom: 10%;
-    text-align: left;
-}
+
 
 .alin {
 
@@ -73,6 +52,12 @@
     
 }
 
+.alin img {
+    width: 150px;
+
+}
+
+
 .rodapé {
 
     font-size: small;
@@ -81,7 +66,6 @@
 
 }
 
-<<<<<<< HEAD
 
 .bg404 {
 
@@ -92,8 +76,6 @@
     
 }
 
-
-=======
 .bg404 {
 
     background-image: url(../_images/404_backgroud/grande.png);
@@ -104,19 +86,117 @@
     
     margin-top: 30.5%;
     margin-left: 46%;
-<<<<<<< HEAD
-    align-items: auto;
-    
+
+    align-items: auto;   
     
 }
-
 
 .geral {
 
     margin-right: 10%;
     margin-left: 10%;
     border: 2px groove;
-=======
->>>>>>> f2c2cf3e0f96d78bc1981efac46b9006257815d6
-    
+
 }
+
+.box { border: 1px groove #2b2929; border-bottom: none; margin-left: 1px; height: 1px; width: 400px; }
+
+.box { border-left: 1px groove #2b2929; border-right: 1px groove #2b2929; border-bottom: 1px groove #2b2929; height: 340px; padding: 1px 0; }
+
+.box 
+{
+    border-radius: 20px;
+    margin-top: -53.5%;
+    margin-left: 66.9%;  
+    padding-bottom: 300px;
+}
+.box h1
+{
+    margin-left: 3%;
+    font-family: 'Poppins', sans-serif;
+    
+    text-align: left;
+    color:#2e2c2c
+}
+
+.preço
+{
+    margin-left: 3%;
+    color: black;
+    font-size: 200%;
+}
+.parc
+{
+    margin-left: 3%;
+    margin-top: -10%;
+}
+
+.desc 
+{
+    
+    border-width: 100px;
+    border: 1px solid black;
+    margin-right: 60%;
+    margin-top: 10%;
+    border-radius: 20px;
+}
+.desc p{
+    margin-left: 3%;
+}
+.botao01{
+    
+    border: 1px solid #3e89cf;
+    border-radius: 10px;
+    display: block;
+    line-height: 3px;
+    text-align: center;
+    padding: 10px 10px;
+    position: auto;
+    width: 140px;
+    margin-top: 70%;
+    margin-left: 3%;
+     border-color: transparent;
+     background-color: #3483fa;
+    color: #fff;
+    
+    
+   }
+   .botao01 p
+   {
+       color: rgb(255, 255, 255);
+       font-size: 15px;
+       font-family: 'Poppins', sans-serif;
+       
+   }
+   .botao02{
+    
+    border: 1px solid #c4d5e4;
+    border-radius: 10px;
+    display: block;
+    line-height: 3px;
+    text-align: center;
+    padding: 10px 10px;
+    position: auto;
+    width: 180px;
+    margin-top: 70%;
+    margin-left: 3%;
+    border-color: transparent;
+    background-color: #c4d5e4;
+    color: #3483fa;  
+   }
+   .botao02 p
+   {
+       color: #3483fa;
+       font-size: 15px;
+       font-family: 'Poppins', sans-serif;
+       
+   }
+   .botao01, .botao02
+   {
+       display: inline-flex;
+   }
+   .estoque
+   {
+       margin-top: -28%;
+       margin-left: 3%;
+   }
