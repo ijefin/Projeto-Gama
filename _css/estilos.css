@@ -1,32 +1,36 @@
 .logo1 img {
+    
 
     width: 280px;
-    margin: 20px 30px;
+    margin: 20px 145px;
+
+
+
     
+}
+
+header {
+
+    background-color: #2e2f30;
+
 
 }
 
- .search {
-
-    background-color:#2F4F4F;
-    border:solid 1px;
-    border-radius:15px;
-    width:300px;
-    margin-left: 50%;
-
- }
-
- .txtBusca{
-    float:left;
-    background-color:transparent;
-    padding-left:5px;
-    font-style:italic;
-    font-size:18px;
-    border:none;
-    height:32px;
-    width:260px;
+ul {
     
-  }
+    margin-left: 78%;
+    list-style-type: none;
+}
+
+li {
+
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+    
+}
+   
+
   
 .butt {
 
@@ -48,14 +52,25 @@
 
 
 .foto {
+
+    
     display: inline-block;
     width: 280;
     margin-left: 8%;
     margin-top: 5%;
     margin-right: 5%;
+    transition: transform .2s;
     
 }
 
+.foto:hover{
+
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1); 
+    
+
+}
  .foto h2 {
 
     font-family: 'Poppins', sans-serif;
@@ -175,10 +190,10 @@
     margin-top: 10%;
     border-radius: 20px;
 }
-.desc p{
+    .desc p{
     margin-left: 3%;
 }
-.botao01{
+    .botao01{
     
     border: 1px solid #3e89cf;
     border-radius: 10px;
