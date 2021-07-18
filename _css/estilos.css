@@ -1,37 +1,56 @@
-.logo1  h1 {  
-  
-    font-size: 50px;
-    margin-left: 10%;
-    color: rgb(227,0,80);
-    font-family: 'Poppins', sans-serif;
-      
+.logo1 img {
+
+    width: 280px;
+    margin: 20px 30px;
+    
+
 }
 
+ .search {
+
+    background-color:#2F4F4F;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px;
+    margin-left: 50%;
+
+ }
+
+ .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:260px;
+    
+  }
   
-.logo1 a {
+.butt {
 
     align-items: auto;
     background-color: rgb(227,0,80);
     border-left-color:rgb(92, 5, 36);
     border-left-style: solid;
     border-left-width: 8px;
-    border-bottom: hidden;
-    border-top: hidden;
-    border-right: hidden;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
     display: inline-block;
     color: rgb(255, 255, 255);
-    font-size: 50%;
-    margin-left: 50%;
-    margin-right: -50%;
+    font-size: 150%;
+    margin-left: 79%;
+    margin-right: -78.5%;
     text-align: center;     
 }
 
 
 .foto {
-
     display: inline-block;
     width: 280;
-    margin-left: 5%;
+    margin-left: 8%;
     margin-top: 5%;
     margin-right: 5%;
     
@@ -77,10 +96,23 @@
 }
 
 .alin img {
+
     width: 150px;
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
 
 }
 
+.alin img:hover {
+
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5); 
+
+}
 
 .rodapé {
 
@@ -95,33 +127,12 @@
 
     background-image: url(../_images/404_backgroud/grande.png);
     align-items: center;
-    margin: unset;
-
+    background-position: center;
+    vertical-align: middle;
+    
     
 }
 
-.bg404 {
-
-    background-image: url(../_images/404_backgroud/grande.png);
-    
-}
-
-.bg404 img {
-    
-    margin-top: 30.5%;
-    margin-left: 46%;
-
-    align-items: auto;   
-    
-}
-
-.geral {
-
-    margin-right: 10%;
-    margin-left: 10%;
-    border: 2px groove;
-
-}
 
 .box { border: 1px groove #2b2929; border-bottom: none; margin-left: 1px; height: 1px; width: 400px; }
 
