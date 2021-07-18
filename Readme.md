@@ -8,22 +8,22 @@
 
 # 1º Sprint 
 
-|                   Task                   | Solicitado Para | Entregue em | Prioridade |     Status      |
-| :--------------------------------------: | :-------------: | :---------: | :--------: | :-------------: |
-|  - Definição do produto para o catálogo  |      15/07      |    15/07    |    9/10    | ***Concluído*** |
-|     - Seleção de imagens do produto      |      15/07      |    15/07    |    8/10    | ***Concluído*** |
-|    - Criação do esqueleto das páginas    |      15/07      |    15/07    |   10/10    | ***Concluído*** |
+| Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
+| :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
+| - Definição do produto para o catálogo   |      15/07      |    15/07    |    9/10    | ***Concluído*** |
+| - Seleção de imagens do produto          |      15/07      |    15/07    |    8/10    | ***Concluído*** |
+| - Criação do esqueleto das páginas       |      15/07      |    15/07    |   10/10    | ***Concluído*** |
 | - Criação de pastas para organização do projeto |      15/07      |    15/07    |   10/10    | ***Concluído*** |
-|          - Estilizar Logo marca          |      17/07      |  Pendente   |    6/10    | *Em Progresso*  |
-|       - Criar design para a index        |      17/07      |  Pendente   |    5/10    | *Em Progresso*  |
-|  - Criar design para paginas do produto  |      17/07      |  Pendente   |    5/10    | *Em Progresso*  |
+| - Estilizar Logo marca                   |      17/07      |  Pendente   |    6/10    | ***Concluído*** |
+| - Criar design para a index              |      18/07      |    17/07    |    5/10    | ***Concluído*** |
+| - Criar design para paginas do produto   |      20/07      |  Pendente   |    5/10    | *Em Progresso*  |
 
 
 
 # 2º Sprint 
 
-|                   Task                   | Solicitado Para | Entregue em | Prioridade |     Status      |
-| :--------------------------------------: | :-------------: | :---------: | :--------: | :-------------: |
+| Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
+| :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
 | - Criar texto descritivo para cada produto |      17/07      |  Pendente   |    5/10    | *Em Progresso*  |
 | - Criação de links para navegação dentro do site |      17/07      |    15/07    |   10/10    | ***Concluído*** |
 | - Inserir botão logo e rodapé em todas as páginas |      17/07      |  Pendente   |    8/10    | *Em Progresso*  |
@@ -33,34 +33,36 @@
 
 # 3 º Sprint
 
-|                   Task                   | Solicitado Para | Entregue em | Prioridade | Status          |
-| :--------------------------------------: | :-------------: | :---------: | ---------- | --------------- |
-| - Busca das imagens da página descritiva |      20/07      |    14/07    | 8/10       | ***Concluído*** |
-|           - Edição das imagens           |      20/07      |    14/07    | 2/10       | ***Concluído*** |
-|       - Organização nos diretórios       |      20/07      |    14/07    | 10/10      | ***Concluído*** |
-| - Inserção das imagens em cada página descritiva |      20/07      |  Pendente   | 5/10       | *Em Progresso*  |
+| Task                                     | Solicitado Para | Entregue em | Prioridade | Status          |
+| :--------------------------------------- | :-------------: | :---------: | :--------: | --------------- |
+| - Busca das imagens da página descritiva |      20/07      |    14/07    |    8/10    | ***Concluído*** |
+| - Edição das imagens                     |      20/07      |    14/07    |    2/10    | ***Concluído*** |
+| - Organização nos diretórios             |      20/07      |    14/07    |   10/10    | ***Concluído*** |
+| - Inserção das imagens em cada página descritiva |      20/07      |    17/07    |    5/10    | ***Concluído*** |
 
 
 
 # 4º Sprint
 
-|                   Task                   | Solicitado Para | Entregue em | Prioridade |     Status     |
-| :--------------------------------------: | :-------------: | :---------: | :--------: | :------------: |
-|           - Criar opção filtro           |      21/07      |  Pendente   |    4/10    | *Em Progresso* |
-|        - Filtrar por Marca/Preço         |      21/07      |  Pendente   |    5/10    | *Em Progresso* |
-| - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |      21/07      |  Pendente   |   10/10    | *Em Progresso* |
-| - Página de compra do produto (botões apenas visuais, sem função) |      21/07      |  Pendente   |    8/10    | *Em Progresso* |
+| Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
+| :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
+| - Criar opção filtro                     |      21/07      |  Pendente   |    4/10    | *Em Progresso*  |
+| - Filtrar por Marca/Preço                |      21/07      |  Pendente   |    5/10    | *Em Progresso*  |
+| - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |      21/07      |    17/07    |   10/10    | ***Concluído*** |
+| - Página de compra do produto (botões apenas visuais, sem função) |      21/07      |  Pendente   |    8/10    | *Em Progresso*  |
+| -Implementar carrossel de imagens na Index |      22/07      |    17/07    |    5/10    | ***Concluído*** |
+| -Implementar animações nas imagens       |      21/07      |    17/07    |    8/10    | ***Concluído*** |
 
 
 
 # 5º Sprint
 
-|                   Task                   | Solicitado Para | Entregue em | Prioridade |     Status     |
-| :--------------------------------------: | :-------------: | :---------: | :--------: | :------------: |
-|        - Aplicar CSS3 + Bootstrap        |      23/07      |  Pendente   |    8/10    | *Em Progresso* |
-|        - Integrar Responsividade         |      23/07      |  Pendente   |    9/10    | *Em Progresso* |
-| - Estilizar páginas conforme Layout esboçado |      23/07      |  Pendente   |    4/10    | *Em Progresso* |
-|   - Realizar ultima entrega funcional.   |      23/07      |  Pendente   |    8/10    | *Em Progresso* |
+| Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
+| :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
+| - Aplicar CSS3 + Bootstrap               |      23/07      |  Pendente   |    8/10    | ***Concluído*** |
+| - Integrar Responsividade                |      23/07      |  Pendente   |    9/10    | ***Concluído*** |
+| - Estilizar páginas conforme Layout esboçado |      23/07      |  Pendente   |    4/10    | *Em Progresso*  |
+| - Realizar ultima entrega funcional.     |      23/07      |  Pendente   |    8/10    | *Em Progresso*  |
 
 ------
 
