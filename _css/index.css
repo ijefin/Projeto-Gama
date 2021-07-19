@@ -1,21 +1,20 @@
-.col-xs-12 img {
-    
 
-
+.col-md-6 {
+    margin-left: auto;
 }
 
+.ftco-section {
+    background-color: #3a3f46;
+}
 
 .imged {
-
-padding-top: 20%;
-padding-right: 30%;
-padding-left: 30%;
-transition: transform .1s;
-
+    padding-top: 20%;
+    padding-right: 30%;
+    padding-left: 30%;
+    transition: transform .1s;
 }
 
 .imged:hover {
-
     -ms-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
@@ -30,8 +29,8 @@ transition: transform .1s;
     margin-bottom: 60px;
 }
 
-#myFooter .info{
-    text-align: justify; 
+#myFooter .info {
+    text-align: justify;
     color: #afb0b1;
 }
 
@@ -48,12 +47,12 @@ transition: transform .1s;
     margin-top: 30px;
 }
 
-#myFooter .logo{
+#myFooter .logo {
     margin-top: 10px;
 }
 
-#myFooter .second-bar .logo a{
-    color:white;
+#myFooter .second-bar .logo a {
+    color: white;
     font-size: 28px;
     float: left;
     font-weight: bold;
@@ -92,9 +91,8 @@ transition: transform .1s;
 }
 
 #myFooter .social-icons {
-    float:right;
+    float: right;
 }
-
 
 #myFooter .facebook:hover {
     color: #0077e2;
@@ -112,19 +110,16 @@ transition: transform .1s;
     #myFooter {
         text-align: center;
     }
-
-    #myFooter .info{
+    #myFooter .info {
         text-align: center;
     }
 }
 
-
-
-html{
+html {
     height: 100%;
 }
 
-body{
+body {
     display: flex;
     display: -webkit-flex;
     flex-direction: column;
@@ -132,13 +127,31 @@ body{
     height: 100%;
 }
 
-.content{
-   flex: 1 0 auto;
-   -webkit-flex: 1 0 auto;
-   min-height: 200px;
+.content {
+    flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    min-height: 200px;
 }
 
-#myFooter{
-   flex: 0 0 auto;
-   -webkit-flex: 0 0 auto;
+#myFooter {
+    flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+}
+
+
+.carousel-inner{
+
+    margin-top: 2px;
+}
+.carousel-item img {
+    
+    max-width: 130%;
+    max-height: 30%;
+  
+}
+
+.bGGlobal {
+
+
+    background-color: #33373e;
 }
