@@ -7,16 +7,25 @@
     background-color: #3a3f46;
 }
 
-.mx-auto {
-   
-    width: 70%;
+.productcenter{
+
+    margin-left: 10%;
+    width: 80%;
     transition: transform .1s;
 }
 
-.mx-auto:hover {
+.productcenter:hover {
     -ms-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+}
+
+
+
+.lay {
+
+
+    margin-left: 25px;
 }
 
 #myFooter {
@@ -195,4 +204,46 @@ body {
     font-size: 14px;
     font-family: sans-serif;
     font-weight: 500
+}
+
+
+ /* Barra de pesquisa */ 
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+body {
+    background-color: #eee;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300
+}
+
+.height {
+    height: 180px;
+}
+
+.search {
+    position: relative;
+    box-shadow: 0 0  3px rgba(116, 115, 115, 0.959)
+}
+
+.search input {
+    height: 60px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4
+}
+
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    background: rgb(224, 3, 58)
 }
