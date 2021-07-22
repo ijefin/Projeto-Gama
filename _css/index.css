@@ -1,13 +1,23 @@
-
+ /* Cabeçalho */ 
+ 
 .col-md-6 {
     margin-left: auto;
 }
 
-.ftco-section {
+.navbar {
+
     background-color: #3a3f46;
 }
 
+.nav-item a{
+
+    color: white;
+}
+
+
+ /* Cabeçalho */ 
 .productcenter{
+
 
     margin-left: 10%;
     width: 80%;
@@ -20,13 +30,38 @@
     transform: scale(1.1);
 }
 
+    /* Opção Filtro */
+
+.dropdown_rs1 button{
+ 
+
+    border: none;
+    margin-left: 20%;
+}   
+
+.dropdown button {
+
+    border: none;
+    box-shadow: none;
+
+}
+
+.menudrop {
 
 
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-flex;
+}
+
+    
 .lay {
-
 
     margin-left: 25px;
 }
+
+/* Opção Filtro fim*/
+
 
 #myFooter {
     background-color: #3a3f46;
@@ -146,17 +181,28 @@ body {
     -webkit-flex: 0 0 auto;
 }
 
-.carousel-inner{
+    /* Carrossel */
 
-    margin-top: 2px;
-}
+
 .carousel-item img {
     
     max-width: 130%;
     max-height: 30%;
   
 }
+     /*Produtos */ 
 
+.card-body p {
+
+    font-size: 150%;
+    
+}
+
+.card-body h2 {
+    
+    color: rgb(59, 3, 12);
+}
+    
 body {
     background-color: #ebebeb
 }
@@ -177,7 +223,6 @@ body {
     border-radius: 0;
     width: fit-content;
     background-color: #da0a25;
-    box-shadow: 0px 10px 10px #E0E0E0;
     z-index: 1;
     color: white;
     width: 100px;
@@ -186,26 +231,18 @@ body {
 }
 
 .img-thumbnail {
-    border: none
+    border: none;
 }
 
 .card {
+
     box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
     border-radius: 5px;
     padding-bottom: 10px
 }
 
-.card-title {
-    font-size: 14px;
-    font-weight: 900
-}
 
-.card-text {
-    font-size: 14px;
-    font-family: sans-serif;
-    font-weight: 500
-}
-
+    /* FIM Produtos */ 
 
  /* Barra de pesquisa */ 
 
@@ -223,27 +260,50 @@ body {
 
 .search {
     position: relative;
-    box-shadow: 0 0  3px rgba(116, 115, 115, 0.959)
+    box-shadow: 0 0  10px rgba(165, 149, 149, 0.959)
 }
 
 .search input {
-    height: 60px;
+    
+
+    height: 40px;
     text-indent: 25px;
-    border: 2px solid #d6d4d4
+    border: none
 }
 
 
 .search .fa-search {
+    
     position: absolute;
     top: 20px;
     left: 16px
 }
 
 .search button {
+    box-shadow: none;
+    border-radius: 2px;
+    border: none;
     position: absolute;
-    top: 5px;
-    right: 5px;
-    height: 50px;
-    width: 110px;
+    top: 0px;
+    right: 0px;
+    height: 40px;
+    width: 80px;
     background: rgb(224, 3, 58)
 }
+
+
+/* Página de produto CSS*/ 
+
+    .fs-4 h4{
+
+        color: rgb(5, 153, 50);
+    }
+
+    .col-md-7 img{
+        
+        border-radius: 10%;
+        width: 60%;
+        margin-left: 31.5%;
+    }
+
+   /* FIM Página de produto CSS*/ 
