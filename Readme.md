@@ -14,9 +14,9 @@
 | - Seleção de imagens do produto          |      15/07      |    15/07    |    8/10    | ***Concluído*** |
 | - Criação do esqueleto das páginas       |      15/07      |    15/07    |   10/10    | ***Concluído*** |
 | - Criação de pastas para organização do projeto |      15/07      |    15/07    |   10/10    | ***Concluído*** |
-| - Estilizar Logo marca                   |      17/07      |  Pendente   |    6/10    | ***Concluído*** |
+| - Estilizar Logo marca                   |      17/07      |    18/07    |    6/10    | ***Concluído*** |
 | - Criar design para a index              |      18/07      |    17/07    |    5/10    | ***Concluído*** |
-| - Criar design para paginas do produto   |      20/07      |  Pendente   |    5/10    | *Em Progresso*  |
+| - Criar design para paginas do produto   |      20/07      |    18/07    |    5/10    | ***Concluído*** |
 
 
 
@@ -24,9 +24,9 @@
 
 | Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
 | :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
-| - Criar texto descritivo para cada produto |      17/07      |  Pendente   |    5/10    | *Em Progresso*  |
+| - Criar texto descritivo para cada produto |      17/07      |    16/07    |    5/10    | ***Concluído*** |
 | - Criação de links para navegação dentro do site |      17/07      |    15/07    |   10/10    | ***Concluído*** |
-| - Inserir botão logo e rodapé em todas as páginas |      17/07      |  Pendente   |    8/10    | *Em Progresso*  |
+| - Inserir botão logo e rodapé em todas as páginas |      17/07      |    15/07    |    8/10    | ***Concluído*** |
 | - Páginas Fictícias do rodapé (404 Not Foud) |      17/07      |    15/07    |    2/10    | ***Concluído*** |
 
 
@@ -46,10 +46,10 @@
 
 | Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
 | :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
-| - Criar opção filtro                     |      21/07      |  Pendente   |    4/10    | *Em Progresso*  |
-| - Filtrar por Marca/Preço                |      21/07      |  Pendente   |    5/10    | *Em Progresso*  |
+| - Criar opção filtro                     |      21/07      |    21/07    |    4/10    | ***Concluído*** |
+| - Filtrar por Marca/Preço                |      21/07      |    21/07    |    5/10    | ***Concluído*** |
 | - Implementar elemento de navegação em todas as páginas (Home, Quem Somos e Contato) |      21/07      |    17/07    |   10/10    | ***Concluído*** |
-| - Página de compra do produto (botões apenas visuais, sem função) |      21/07      |  Pendente   |    8/10    | *Em Progresso*  |
+| - Página de compra do produto (botões apenas visuais, sem função) |      21/07      |    21/07    |    8/10    | ***Concluído*** |
 | -Implementar carrossel de imagens na Index |      22/07      |    17/07    |    5/10    | ***Concluído*** |
 | -Implementar animações nas imagens       |      21/07      |    17/07    |    8/10    | ***Concluído*** |
 
@@ -59,10 +59,10 @@
 
 | Task                                     | Solicitado Para | Entregue em | Prioridade |     Status      |
 | :--------------------------------------- | :-------------: | :---------: | :--------: | :-------------: |
-| - Aplicar CSS3 + Bootstrap               |      23/07      |  Pendente   |    8/10    | ***Concluído*** |
-| - Integrar Responsividade                |      23/07      |  Pendente   |    9/10    | ***Concluído*** |
-| - Estilizar páginas conforme Layout esboçado |      23/07      |  Pendente   |    4/10    | *Em Progresso*  |
-| - Realizar ultima entrega funcional.     |      23/07      |  Pendente   |    8/10    | *Em Progresso*  |
+| - Aplicar CSS3 + Bootstrap               |      23/07      |    21/07    |    8/10    | ***Concluído*** |
+| - Integrar Responsividade                |      23/07      |    18/07    |    9/10    | ***Concluído*** |
+| - Estilizar páginas conforme Layout esboçado |      23/07      |    21/07    |    4/10    | ***Concluído*** |
+| - Realizar ultima entrega funcional.     |      23/07      |    22/07    |    8/10    | ***Concluído*** |
 
 ------
 
