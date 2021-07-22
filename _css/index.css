@@ -19,12 +19,13 @@
 .productcenter{
 
 
-    margin-left: 10%;
-    width: 80%;
+    margin-left: 20%;
+    width: 60%;
     transition: transform .1s;
 }
 
 .productcenter:hover {
+    
     -ms-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
@@ -54,15 +55,19 @@
     display: inline-flex;
 }
 
-    
+    /* Texto "Confira nossos produtos" */
 .lay {
 
     margin-left: 25px;
 }
 
+    /* Texto "Confira nossos produtos" */
+
+
 /* Opção Filtro fim*/
 
-
+/* Cabeçalho CSS  */ 
+ 
 #myFooter {
     background-color: #3a3f46;
     color: white;
@@ -153,16 +158,19 @@
     #myFooter {
         text-align: center;
     }
+    
     #myFooter .info {
         text-align: center;
     }
 }
 
 html {
+
     height: 100%;
 }
 
 body {
+
     display: flex;
     display: -webkit-flex;
     flex-direction: column;
@@ -171,6 +179,7 @@ body {
 }
 
 .content {
+
     flex: 1 0 auto;
     -webkit-flex: 1 0 auto;
     min-height: 200px;
@@ -180,6 +189,8 @@ body {
     flex: 0 0 auto;
     -webkit-flex: 0 0 auto;
 }
+
+    /* fim Cabeçalho CSS  */ 
 
     /* Carrossel */
 
@@ -194,7 +205,7 @@ body {
 
 .card-body p {
 
-    font-size: 150%;
+    font-size: 100%;
     
 }
 
@@ -241,7 +252,6 @@ body {
     padding-bottom: 10px
 }
 
-
     /* FIM Produtos */ 
 
  /* Barra de pesquisa */ 
@@ -279,6 +289,7 @@ body {
     left: 16px
 }
 
+
 .search button {
     box-shadow: none;
     border-radius: 2px;
@@ -291,6 +302,7 @@ body {
     background: rgb(224, 3, 58)
 }
 
+    /* Fim barra de pesquisa  */  
 
 /* Página de produto CSS*/ 
 
