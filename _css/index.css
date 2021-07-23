@@ -50,7 +50,7 @@
 .menudrop {
 
 
-    margin-left: 2%;
+    margin-left: 40%;
     margin-top: 2%;
     display: inline-flex;
 }
@@ -58,6 +58,7 @@
     /* Texto "Confira nossos produtos" */
 .lay {
 
+    margin-bottom: -20%;
     margin-left: 25px;
 }
 

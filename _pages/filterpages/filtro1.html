@@ -21,7 +21,8 @@
                 <div class="row height d-flex justify-content-center align-items-center">
                     <div class="col-md-8">
                         <div class="search"> <i class="fa fa-search"></i> <input type="text" class="form-control"
-                                placeholder="Procurando algum produto?"> <button class="btn btn-primary">OK</button> </div>
+                                placeholder="Procurando algum produto?"> <button class="btn btn-primary">OK</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -42,7 +43,32 @@
         </div>
     </nav>
     <!-- Cabeçalho com logo - Fim-->
-
+    <div class="menudrop">
+        <h3 class="txth3">Filtrar por: &nbsp</h3>
+        <div class="dropdown mb-4">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Marcas
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <li><a class="dropdown-item" href="../../_pages/filterpages/filtro1.html">Corsair</a></li>
+                <li><a class="dropdown-item" href="../../_pages/filterpages/filtro2.html">Hyperx</a></li>
+                <li><a class="dropdown-item" href="../../_pages/filterpages/filtro3.html">Razer</a></li>
+                <li><a class="dropdown-item" href="../../_pages/filterpages/filtro4.html">Logitech</a></li>
+            </ul>
+        </div>
+        <div class="dropdown_rs1">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Preço
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <li><a class="dropdown-item" href="../../_pages/filterpages/crescente.html">Crescente</a></li>
+                <li><a class="dropdown-item" href="../../_pages/filterpages/decrescente.html">Decrescente</a>
+                </li>
+            </ul>
+        </div>
+    </div>
 
     <!-- Container de imagens-->
 
@@ -142,7 +168,7 @@
         </div>
     </footer>
 
- <!-- Fim rodapé -->
+    <!-- Fim rodapé -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
