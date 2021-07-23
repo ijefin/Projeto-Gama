@@ -49,16 +49,15 @@
 
 .menudrop {
 
-    
+
+    margin-left: 2%;
     margin-top: 2%;
     display: inline-flex;
-
 }
 
     /* Texto "Confira nossos produtos" */
 .lay {
 
-    margin-bottom: -20%;
     margin-left: 25px;
 }
 
@@ -316,7 +315,12 @@ body {
         
         border-radius: 10%;
         width: 60%;
-        margin-left: 31.5%;
+        margin-left: 21%;
     }
 
+    .col-md-7 img {
+
+        
+
+    }
    /* FIM Página de produto CSS*/ 
