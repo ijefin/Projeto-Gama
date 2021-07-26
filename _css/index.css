@@ -4,12 +4,18 @@
     margin-left: auto;
 }
 
+.navbar a {
+
+   
+    color: #eee;
+}
 .navbar {
 
     background-color: #3a3f46;
 }
 
 .nav-item a{
+
 
     color: white;
 }
@@ -271,7 +277,7 @@ body {
 
 .search {
     position: relative;
-    box-shadow: 0 0  10px rgba(165, 149, 149, 0.959)
+
 }
 
 .search input {
@@ -319,9 +325,5 @@ body {
         margin-left: 21%;
     }
 
-    .col-md-7 img {
 
-        
-
-    }
    /* FIM Página de produto CSS*/ 
